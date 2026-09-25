@@ -6,7 +6,7 @@
 
 # QRZCB Mobile - Official Android App 📻
 
-[![Release](https://img.shields.io/badge/version-3.0.5%20(Build%2033)-blue.svg)](https://qrzcb.io)
+[![Release](https://img.shields.io/badge/version-3.0.6%20(Build%2034)-blue.svg)](https://qrzcb.io)
 [![Android](https://img.shields.io/badge/platform-Android%207.0%2B-green.svg)](https://qrzcb.io)
 [![License](https://img.shields.io/badge/license-Freeware-orange.svg)](https://qrzcb.io)
 [![Website](https://img.shields.io/badge/website-qrzcb.io-blueviolet.svg)](https://qrzcb.io)
@@ -20,7 +20,7 @@ L'applicazione ufficiale di **QRZCB.io**, il database e la community globale per
 Puoi scaricare direttamente l'ultimo file APK per il tuo smartphone o tablet Android:
 
 * 👉 **[Scarica Ultima Versione (Sempre Aggiornata): `lastest-qrzcb-io-app.apk`](lastest-qrzcb-io-app.apk)**
-* 👉 **[Scarica Versione 3.0.5 Specifica: `QRZCB_v3.0.5_release.apk`](QRZCB_v3.0.5_release.apk)**
+* 👉 **[Scarica Versione 3.0.6 Specifica: `QRZCB_v3.0.6_release.apk`](QRZCB_v3.0.6_release.apk)**
 
 > **Requisiti di sistema**: Android 7.0 (Nougat) o versioni successive.
 
@@ -28,20 +28,19 @@ Puoi scaricare direttamente l'ultimo file APK per il tuo smartphone o tablet And
 
 ## 🚀 Caratteristiche Principali
 
-* **Callbook Internazionale**: Ricerca istantanea di nominativi CB / 11m, coordinate, griglie QRA locator, statistiche certe da database e schede operatore.
+* **Callbook Internazionale**: Ricerca istantanea di nominativi CB / 11m, coordinate, griglie QRA locator, statistiche certe da database e schede operatore complete.
 * **Fast Add QSO**: Registrazione rapida e semplificata dei collegamenti radio con calcolo automatico della distanza e della rotta.
-* **Feed Multimediale Dinamico**: Galleria con cartoline **eQSL**, **schede utente verticali con foto stazione radio**, avatar ingrandito, bandierina, nickname CB e statistiche confermate (LOOKUPS, QSO, FT8) e **Award ed eventi attivi**.
-* **Mappa FT8 27 MHz Dark Mode**: Mappa reale Dark Mode a piastrelle (CartoDB Dark Matter) con etichetta `(MAPPA DI TEST)` e predisposizione al Fast Add QSO automatico da WSJT-CB.
-* **Suggerimenti nella Ricerca**: Visualizzazione dei risultati cercati seguita sempre da suggerimenti casuali degli ultimi operatori registrati.
-* **Doppio Riquadro eQSL**: Visualizzazione simultanea nel profilo dell'ultima cartolina ricevuta e dell'ultima inviata, entrambe ad alta risoluzione con zoom.
-* **Navigazione Rapida & Monitor Connettività**: Tap su logo o titolo per tornare al proprio profilo e indicatori di rete su due righe (USER, DEMO, WEB, QRZCB, DB).
-* **Modalità Prova (Guest)**: Possibilità di esplorare l'applicazione e consultare l'annuario anche senza account.
+* **Nuova Mappa FT8 27Mhz MAP (Frank Service Pack 58)**: Mappa interattiva dark con supporto multilayer (XZGroup Net / VASH, PSK-Reporter e terminatore giorno/notte), selettore Day/Night e tendine a scomparsa per plancia feed live, filtri e legenda.
+* **Feed Multimediale Dinamico**: Galleria con cartoline **eQSL**, schede utente spotlight con foto stazione radio di sfondo, avatar ingrandito, bandierina sovraimpressa, nickname CB e statistiche certe (LOOKUPS, QSO confermati/totale con percentuali, FT8) ed eventi/award in corso o futuri.
+* **Sezione My eQSLs & Attività Profilo**: Visualizzazione simultanea delle eQSL ricevute e inviate a tutto campo senza tagli (`BoxFit.contain`) con mini-schede informative dell'operatore e fallback pulito `NO eQSL yet!`.
+* **Ricerca Ottimizzata**: Suggerimenti community limitati a max 5 risultati, avatar dark-mode classico per chi non ha foto e avviso risultati posizionato in fondo alla lista.
+* **Menu e Navigazione Immediata**: Accesso diretto a `Profile` e `My eQSLs` in cima al drawer, e tap sulla barra superiore per tornare al proprio profilo.
 
 ---
 
 ## 📲 Istruzioni di Installazione
 
-1. Scarica il file APK (`lastest-qrzcb-io-app.apk` o `QRZCB_v3.0.5_release.apk`) sul tuo dispositivo Android.
+1. Scarica il file APK (`lastest-qrzcb-io-app.apk` o `QRZCB_v3.0.6_release.apk`) sul tuo dispositivo Android.
 2. Apri il file scaricato. Se richiesto dal sistema, abilita l'opzione **"Installa da questa fonte"** o **"Origini sconosciute"** nelle impostazioni di sicurezza di Android.
 3. Completa l'installazione e avvia l'app QRZCB.
 
