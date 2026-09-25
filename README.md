@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://qrzcb.io">
+    <img src="https://qrzcb.io/wp-content/uploads/2024/03/logonero_preview_rev_1.webp" alt="QRZCB.io Logo" width="130" />
+  </a>
+</p>
+
 # QRZCB Mobile - Official Android App 📻
 
 [![Release](https://img.shields.io/badge/version-3.0.5%20(Build%2033)-blue.svg)](https://qrzcb.io)
@@ -13,7 +19,8 @@ L'applicazione ufficiale di **QRZCB.io**, il database e la community globale per
 
 Puoi scaricare direttamente l'ultimo file APK per il tuo smartphone o tablet Android:
 
-* 👉 **[Scarica QRZCB v3.0.5 APK (Release Ufficiale)](QRZCB_v3.0.5_release.apk)**
+* 👉 **[Scarica Ultima Versione (Sempre Aggiornata): `lastest-qrzcb-io-app.apk`](lastest-qrzcb-io-app.apk)**
+* 👉 **[Scarica Versione 3.0.5 Specifica: `QRZCB_v3.0.5_release.apk`](QRZCB_v3.0.5_release.apk)**
 
 > **Requisiti di sistema**: Android 7.0 (Nougat) o versioni successive.
 
@@ -34,7 +41,7 @@ Puoi scaricare direttamente l'ultimo file APK per il tuo smartphone o tablet And
 
 ## 📲 Istruzioni di Installazione
 
-1. Scarica il file **`QRZCB_v3.0.5_release.apk`** sul tuo dispositivo Android.
+1. Scarica il file APK (`lastest-qrzcb-io-app.apk` o `QRZCB_v3.0.5_release.apk`) sul tuo dispositivo Android.
 2. Apri il file scaricato. Se richiesto dal sistema, abilita l'opzione **"Installa da questa fonte"** o **"Origini sconosciute"** nelle impostazioni di sicurezza di Android.
 3. Completa l'installazione e avvia l'app QRZCB.
 
