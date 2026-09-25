@@ -1,29 +1,29 @@
 # Note di Versione - QRZCB Mobile
 
-## Versione 3.0.4 (Build 32) - Settembre 2026
+## Versione 3.0.5 (Build 33) - Settembre 2026
 
 ### Novità e Miglioramenti
-* **Nuova Card Spotlight Utente nel Feed**: Card verticale ad alta risoluzione con immagine di sfondo estesa (`foto_equipment`) protetta da gradiente scuro, intestazione su riga singola con Callsign in evidenza, Nome operatore e bandiera, avatar centrale ingrandito con glow e box statistiche dedicati (LOOKUPS, QSOs totali e FT8).
-* **Mappa FT8 27 MHz a Pieno Schermo**: Nuova schermata mappa scura interattiva a schermo intero (senza API di terze parti) con graticoli, continenti stilizzati, onde di propagazione radio e splash screen descrittivo per l'integrazione di monitoraggio live 11m (27.245 MHz USB) e Fast Add QSO da WSJT-CB / WSJT-X.
-* **Doppio Riquadro eQSL nel Profilo**: Sezione eQSL ingrandita e suddivisa in due colonne: ULTIMA RICEVUTA (a sinistra, con mittente e data) e ULTIMA MANDATA (a destra, con grafica eQSL personale), entrambe con zoom a schermo intero.
-* **Organizzazione Menu Laterale**: Voce GitHub riposizionata direttamente sotto lo stato di QRZCB.io e aggiornata nota di avviso per le versioni beta.
-* **Miglioramento Logout**: Reindirizzamento pulito alla schermata di login con mantenimento dei campi credenziali salvati per un rapido rientro.
+* **Dati Certi e Allineati dal Database Reale**: Rimosso qualsiasi valore presunto o generato. Nel feed e nella ricerca, tutti i dati degli operatori (Lookups, QSO, percentuali di conferma, FT8, nominativi, nickname CB e città) provengono al 100% dal database ufficiale QRZCB.
+* **Filtro Rigoroso Feed**: Gli utenti appaiono nel feed solo se hanno sia la foto profilo che la foto della stazione radio (`foto_equipment`) popolate e valide. Gli eventi passati sono esclusi (mostrati solo quelli in corso o futuri).
+* **Nuova Scheda Utente Spotlight**: Immagine di copertina stazione radio a tutto campo, avatar ingrandito con bandiera nazione sovraimpressa in basso a destra, nominativo grande, nome operatore, badge `nickname_cb` con bordo azzurro e box statistiche con confermati/totale e percentuali (LOOKUPS, QSO, FT8).
+* **Mappa FT8 con Mappa Reale Dark Mode & Sovraimpressione di Test**: Integrazione mappa reale Dark Mode a piastrelle (CartoDB Dark Matter) senza API esterne, con scritta `(MAPPA DI TEST)` e rimozione dei collegamenti simulati.
+* **Suggerimenti Casuali nella Ricerca**: Dopo i risultati cercati da un utente (fino a 5), compaiono sempre suggerimenti casuali degli ultimi operatori registrati dalla community.
+* **Miglioramenti Barra Superiore**: Click sul logo o sul titolo per tornare al proprio profilo; rimossi i pixel LED e riorganizzati gli stati su due righe allineate a destra (`USER: xx - DEMO : xx` e `WEB - QRZCB - DB`).
 
 ---
 
 ## Versioni Precedenti
 
+### Versione 3.0.4 (Build 32)
+* Card utente verticale a scorrimento nel feed.
+* Predisposizione schermata FT8 Live Map e Fast Add QSO.
+* Riquadro eQSL nel profilo a doppia colonna (Ultima Ricevuta e Ultima Mandata).
+* Riorganizzazione menu laterale con link GitHub e nota informativa di avviso beta.
+
 ### Versione 3.0.3 (Build 31)
-* Nuova Matrice di Telemetria LED Retro con indicatori pixel per consultazioni e utenti connessi.
-* Contatori in tempo reale a 24 ore per utenti connessi (USR) e sessioni demo (DEMO).
-* Feed multimediale dinamico con eQSL, profili utente e diplomi ufficiali.
-* Semplificazione menu e navigazione silenziosa senza suoni di sistema.
+* Telemetria e indicatori 24 ore per utenti e sessioni demo.
+* Feed multimediale dinamico con eQSL, utenti e diplomi.
+* Semplificazione menu e navigazione silenziosa.
 
 ### Versione 3.0.2 (Build 30)
-* Accesso demo rapido per provare l'applicazione senza registrazione immediata.
-* Protezione scrittura per account ospiti con link rapido alla registrazione gratuita.
-* Monitor connettività a tre indicatori (WEB, QRZCB, DB).
-
-### Versione 3.0.1 (Build 29)
-* Preparazione e conformità per la pubblicazione su store ufficiali.
-* Passaggio al formato Android App Bundle (.aab) con firma crittografica sicura.
+* Accesso rapido demo e monitor connettività a tre indicatori.
