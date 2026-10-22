@@ -1,5 +1,14 @@
 # Note di Versione - QRZCB Mobile
 
+## Versione 3.1.3 (Build 42) - Ottobre 2026
+
+### Novità e Miglioramenti
+* **Rimozione Modalità DEMO & Accesso Ospite**: Rimossa completamente la modalità DEMO e il pulsante "Prova l'app senza account" dalla schermata di Login per garantire un accesso esclusivo con credenziali ufficiali QRZCB.io.
+* **Barra Superiore Ottimizzata**: Rimosso il contatore DEMO dalla barra di stato in alto a destra, che mostra ora esclusivamente il conteggio degli utenti attivi reali (`USER: xx`).
+* **Stabilità Funzioni Core**: Mappa FT8 27MHz diurna, Pin personalizzati PSK/XZGroup/QRZCB, Tasto FOCUS dinamico, Ricerca Callbook, My eQSLs, Feed Social e Profilo rimangono invariati e pienamente operativi.
+
+---
+
 ## Versione 3.1.2 (Build 41) - Settembre 2026
 
 ### Novità e Miglioramenti
@@ -22,11 +31,3 @@
 * **Mappa Diurna Classica Naturale**: Eliminata ogni distorsione o colorazione forzata.
 * **Tasto FOCUS con Gestione NO REPORT**: Se l'operatore non ha attività recenti nel database, compare a schermo il messaggio **`NO REPORT`** e l'inquadratura torna al default centrata con zoom sulla zona di traffico.
 * **Dashboard FT8 Live Aperta di Default**: Grafico 30 minuti a curve smussate di Bézier cubiche per PSK e XZGroup, e tabella con gli ultimi 10 spot reali che scorrono.
-
----
-
-## Versione 3.0.9 (Build 37) - Settembre 2026
-
-### Novità e Miglioramenti
-* **Mappa Unificata Motore 3.0.2**: Allineamento al motore cartografico delle pagine profilo (`LocatorMapWidget`) con zoom `+` / `-` e panning touch fluido.
-* **Switcher Vista**: Visualizzazione flessibile tra SPLIT, MAPPA a tutto schermo e TABELLA a tutto schermo.
